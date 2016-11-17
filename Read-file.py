@@ -1,4 +1,6 @@
 # output the contents of a file from a passed argument
+# added comment - tsox
+
 import sys
 
 if len(sys.argv) < 2:
